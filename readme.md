@@ -1,3 +1,5 @@
+Making a mlp network, neural network. Uh yeah
+
 First step is defining the structure of a network
 
 So there must be an input layer and an output layer
